@@ -1,0 +1,16 @@
+{
+	"cacheMap" : 
+	{
+		"beta" : 
+		{
+			"rawResponse" : "{\n\t\"result\" : \n\t{\n\t\t\"buildName\" : \"beta\",\n\t\t\"downloadUrl\" : \"https://redstone-launcher.mojang.com/beta\"\n\t}\n}",
+			"validUntil" : "2023-04-05T05:50:19.900Z"
+		},
+		"release" : 
+		{
+			"rawResponse" : "{\n\t\"result\" : \n\t{\n\t\t\"buildName\" : \"release\",\n\t\t\"downloadUrl\" : \"https://redstone-launcher.mojang.com/release\"\n\t}\n}",
+			"validUntil" : "2023-04-13T17:29:08.369Z"
+		}
+	},
+	"version" : 1
+}

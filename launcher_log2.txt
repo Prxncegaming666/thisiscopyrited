@@ -1,0 +1,44 @@
+[Info: 2023-04-17 01:50:20.5852387: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-04-17 01:50:20.5946013: mainWindows.cpp(86)] Running launcher bootstrap (version 1.0.1212)
+[Info: 2023-04-17 01:50:20.5959461: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2023-04-17 01:50:20.6384357: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-04-17 01:50:20.6462523: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2023-04-17 01:50:20.6505763: Common.cpp(32)] Native Launcher Version: 1.0.1212
+[Info: 2023-04-17 01:50:20.6507690: Common.cpp(33)] Operating System: Windows 10 Home
+[Info: 2023-04-17 01:50:20.6510132: Common.cpp(34)] Application Data directory: C:\...\.minecraft
+[Info: 2023-04-17 01:50:20.6517149: Common.cpp(35)] Executable Path: /:\...\MinecraftLauncher.exe
+[Info: 2023-04-17 01:50:20.6518505: Common.cpp(36)] App Directory dir: C:\...\Minecraft Launcher
+[Info: 2023-04-17 01:50:20.6519677: Common.cpp(37)] Game data directory: C:\...\.minecraft
+[Info: 2023-04-17 01:50:20.6520386: Common.cpp(38)] Launcher dir: C:\...\game
+[Info: 2023-04-17 01:50:20.6521334: Common.cpp(39)] Java dir: C:\...\jre-x64
+[Info: 2023-04-17 01:50:20.6522377: Common.cpp(40)] TmpDir dir: C:\...\MinecraftLauncher
+[Info: 2023-04-17 01:50:20.6523468: Common.cpp(41)] x64: true
+[Info: 2023-04-17 01:50:20.6524716: LauncherConfiguration.cpp(292)] Using update preferences at path: C:\...\launcher_profiles.json
+[Warning: 2023-04-17 01:50:20.6695737: LauncherConfiguration.cpp(113)] Failed to get clientToken from configuration, launcher updater will fall back to using stable versions instead of controlled experiment versions.
+[Info: 2023-04-17 01:50:20.6697282: LauncherConfiguration.cpp(295)] Failed to read update preferences from C:\...\launcher_profiles.json
+[Info: 2023-04-17 01:50:20.6698484: LauncherConfiguration.cpp(306)] Using update preferences at path: C:\...\launcher_settings.json
+[Info: 2023-04-17 01:50:20.6709945: NetQueue.cpp(632)] NetQueue: Starting net action https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2023-04-17 01:50:21.2138932: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.237.69, Host: launchermeta.mojang.com
+[Info: 2023-04-17 01:50:21.2140214: NetQueue.cpp(551)] NetQueue: Action finished: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2023-04-17 01:50:21.2140700: NetQueue.cpp(579)] NetQueue: Action finalized: https://launchermeta.mojang.com/v1/products/launcher/d03cf0cf95cce259fa9ea3ab54b65bd28bb0ae82/windows-x86.json
+[Info: 2023-04-17 01:50:21.2235999: LauncherConfiguration.cpp(198)] Deciding on update with strategy 2 and clientID 442653727
+[Info: 2023-04-17 01:50:21.2236959: LauncherConfiguration.cpp(219)] We should change launcher-bootstrap-ado from 1.0.1212 to 1.2.3
+[Info: 2023-04-17 01:50:21.2237605: LauncherConfiguration.cpp(238)] launcher-bootstrap-ado update is needed.
+[Info: 2023-04-17 01:50:21.2238643: LauncherConfiguration.cpp(261)] Error opening: C:\...\.version, Error message: no such file or directory
+[Info: 2023-04-17 01:50:21.2239509: LauncherConfiguration.cpp(198)] Deciding on update with strategy 2 and clientID 442653727
+[Info: 2023-04-17 01:50:21.2240054: LauncherConfiguration.cpp(219)] We should change launcher-core-ado from unknown to 2.4.30
+[Info: 2023-04-17 01:50:21.2240399: LauncherConfiguration.cpp(238)] launcher-core-ado update is needed.
+[Info: 2023-04-17 01:50:21.2240980: main.cpp(111)] Updating bootstrap...
+[Info: 2023-04-17 01:50:21.2244650: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-meta.mojang.com/v1/packages/a6a8f4fa803dbf8457466b85f451fbd0abd8e799/manifest.json
+[Info: 2023-04-17 01:50:21.7468885: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.237.69, Host: piston-meta.mojang.com
+[Info: 2023-04-17 01:50:21.7469829: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-meta.mojang.com/v1/packages/a6a8f4fa803dbf8457466b85f451fbd0abd8e799/manifest.json
+[Info: 2023-04-17 01:50:21.7470287: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-meta.mojang.com/v1/packages/a6a8f4fa803dbf8457466b85f451fbd0abd8e799/manifest.json
+[Info: 2023-04-17 01:50:21.7480404: NetQueue.cpp(632)] NetQueue: Starting net action https://piston-data.mojang.com/v1/objects/079698660fb50f2511923214f84c46a703d18dfb/Minecraft.exe
+[Info: 2023-04-17 01:50:24.2433148: NetQueue.cpp(472)] NetQueue: Primary ip: 13.107.237.69, Host: piston-data.mojang.com
+[Info: 2023-04-17 01:50:24.2434892: NetQueue.cpp(551)] NetQueue: Action finished: https://piston-data.mojang.com/v1/objects/079698660fb50f2511923214f84c46a703d18dfb/Minecraft.exe
+[Info: 2023-04-17 01:50:24.2440806: NetQueue.cpp(579)] NetQueue: Action finalized: https://piston-data.mojang.com/v1/objects/079698660fb50f2511923214f84c46a703d18dfb/Minecraft.exe
+[Info: 2023-04-17 01:50:24.5294689: LaunchApplicationWin32.cpp(37)] Started application tools\NativeUpdater.exe MinecraftLauncher.exe MinecraftLauncher.exe.tmp
+[Info: 2023-04-17 01:50:24.5295787: NetQueue.cpp(212)] NetQueue: Initiating shutdown.
+[Info: 2023-04-17 01:50:24.5296373: NetQueue.cpp(226)] NetQueue: Waiting for worker thread to finish...
+[Info: 2023-04-17 01:50:24.5296962: NetQueue.cpp(742)] NetQueue: Worker thread shutting down.
+[Info: 2023-04-17 01:50:24.5739449: NetQueue.cpp(229)] NetQueue: Done.

@@ -1,0 +1,47 @@
+{
+  "profiles" : {
+    "1cb2c83520216c28b65a77715ffd5e1e" : {
+      "created" : "1970-01-01T00:00:00.000Z",
+      "icon" : "Crafting_Table",
+      "lastUsed" : "1970-01-01T00:00:00.000Z",
+      "lastVersionId" : "latest-snapshot",
+      "name" : "",
+      "type" : "latest-snapshot"
+    },
+    "674c1a108010eafa981dd06a72f3077c" : {
+      "created" : "2023-04-03T06:13:43.740Z",
+      "gameDir" : "C:\\Users\\cjpri\\AppData\\Roaming\\.minecraft",
+      "icon" : "Furnace",
+      "lastUsed" : "1970-01-01T00:00:00.000Z",
+      "lastVersionId" : "1.19.4",
+      "name" : "gfy",
+      "type" : "custom"
+    },
+    "708d7940a1ffb76fa9089a1d855b1426" : {
+      "created" : "1970-01-02T00:00:00.000Z",
+      "icon" : "Grass",
+      "lastUsed" : "2023-04-09T05:09:45.689Z",
+      "lastVersionId" : "latest-release",
+      "name" : "",
+      "resolution" : {
+        "height" : 1440,
+        "width" : 2560
+      },
+      "type" : "latest-release"
+    }
+  },
+  "settings" : {
+    "crashAssistance" : true,
+    "enableAdvanced" : false,
+    "enableAnalytics" : true,
+    "enableHistorical" : false,
+    "enableReleases" : true,
+    "enableSnapshots" : false,
+    "keepLauncherOpen" : false,
+    "profileSorting" : "ByLastPlayed",
+    "showGameLog" : true,
+    "showMenu" : false,
+    "soundOn" : false
+  },
+  "version" : 3
+}

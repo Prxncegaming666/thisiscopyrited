@@ -1,0 +1,84 @@
+[Info: 2023-04-17 18:50:00.8450476: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-04-17 18:50:00.8464526: NetQueue.cpp(671)] NetQueue: worker thread started.
+[Info: 2023-04-17 18:50:00.8467036: mainWindows.cpp(81)] Running launcher bootstrap (version 1.2.4)
+[Error: 2023-04-17 18:50:00.8559995: localization.cpp(110)] No translation found for "Failed to initialize GDK, please make sure Xbox App and Gaming Services are up to date and running."
+[Info: 2023-04-17 18:50:00.8632350: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-04-17 18:50:00.8659363: NetQueue.cpp(671)] NetQueue: worker thread started.
+[Error: 2023-04-17 18:50:00.8672124: localization.cpp(110)] No translation found for "Failed to initialize GDK, please make sure Xbox App and Gaming Services are up to date and running."
+[Info: 2023-04-17 18:50:00.8672841: Common.cpp(32)] Native Launcher Version: 1.2.4
+[Info: 2023-04-17 18:50:00.8673307: Common.cpp(33)] Operating System: Windows 10 Home
+[Info: 2023-04-17 18:50:00.8675184: Common.cpp(34)] Application Data directory: C:\...\.minecraft
+[Info: 2023-04-17 18:50:00.8678544: Common.cpp(35)] Executable Path: /:\...\MinecraftLauncher.exe
+[Info: 2023-04-17 18:50:00.8679120: Common.cpp(36)] App Directory dir: C:\...\Minecraft Launcher
+[Info: 2023-04-17 18:50:00.8679625: Common.cpp(37)] Game data directory: C:\...\.minecraft
+[Info: 2023-04-17 18:50:00.8680151: Common.cpp(38)] Launcher dir: C:\...\game
+[Info: 2023-04-17 18:50:00.8680630: Common.cpp(39)] Update dir: C:\...\update_files
+[Info: 2023-04-17 18:50:00.8681154: Common.cpp(40)] TmpDir dir: C:\...\MinecraftLauncher
+[Info: 2023-04-17 18:50:00.8686751: UpdateTools.cpp(118)] Using update preferences at path: C:\...\launcher_profiles.json
+[Warning: 2023-04-17 18:50:00.8693299: UpdateTools.cpp(41)] Failed to get clientToken from configuration, launcher updater will fall back to using stable versions instead of controlled experiment versions.
+[Warning: 2023-04-17 18:50:00.8694019: UpdateTools.cpp(84)] Unexpected update selection strategy: . Setting to: STABLE_VERSIONS
+[Warning: 2023-04-17 18:50:00.8694478: UpdateTools.cpp(97)] Unable to find 'channel' key in settings.
+[Info: 2023-04-17 18:50:00.8695094: UpdateTools.cpp(121)] Failed to read update preferences from C:\...\launcher_profiles.json
+[Info: 2023-04-17 18:50:00.8695939: UpdateTools.cpp(132)] Using update preferences at path: C:\...\launcher_settings.json
+[Warning: 2023-04-17 18:50:00.8700297: UpdateTools.cpp(84)] Unexpected update selection strategy: . Setting to: CONTROLLED_EXPERIMENT
+[Info: 2023-04-17 18:50:00.8701034: LauncherConfiguration.cpp(93)] Update preferences: strategy: 2, clientId: 442653727, channel: release
+[Warning: 2023-04-17 18:50:00.8721872: Auth.cpp(226)] Error when retrieving secure token from STS: 2
+[Info: 2023-04-17 18:50:00.8727058: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/products/launcher/8c27cef2cad375cacbb4a98169dae13a58fb7c09/win32.json?
+[Info: 2023-04-17 18:50:01.1777225: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.69, Host: redstone-launcher.mojang.com
+[Info: 2023-04-17 18:50:01.1778299: NetQueue.cpp(573)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/products/launcher/8c27cef2cad375cacbb4a98169dae13a58fb7c09/win32.json?
+[Info: 2023-04-17 18:50:01.1778871: NetQueue.cpp(615)] Action finalized: https://redstone-launcher.mojang.com/release/v2/products/launcher/8c27cef2cad375cacbb4a98169dae13a58fb7c09/win32.json?
+[Info: 2023-04-17 18:50:01.1781721: AzureUpdateTools.cpp(226)] Version of bootstrap is current, no action is necessary.
+[Info: 2023-04-17 18:50:01.1782807: UpdateTools.cpp(220)] bootstrap is current
+[Info: 2023-04-17 18:50:01.1785155: UpdateTools.cpp(153)] Error opening: C:\...\.version, Error message: no such file or directory
+[Info: 2023-04-17 18:50:01.1786198: AzureUpdateTools.cpp(222)] We should change core from unknown to 2.4.30
+[Info: 2023-04-17 18:50:01.1786942: UpdateTools.cpp(210)] core update is needed.
+[Info: 2023-04-17 18:50:01.1787652: main.cpp(38)] Core outdated!
+[Info: 2023-04-17 18:50:01.1792798: main.cpp(70)] Update in folder C:\...\game will now run. (https://redstone-launcher.mojang.com/release/v2/packages/83909c08118c259dd3f01ca3e1808acc5c380b01/manifest.json to version 2.4.30)
+[Info: 2023-04-17 18:50:01.1794184: main.cpp(62)] Status reported: Downloading manifest...
+[Info: 2023-04-17 18:50:01.1795281: Updating.cpp(84)] Downloading https://redstone-launcher.mojang.com/release/v2/packages/83909c08118c259dd3f01ca3e1808acc5c380b01/manifest.json
+[Info: 2023-04-17 18:50:01.1799074: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/packages/83909c08118c259dd3f01ca3e1808acc5c380b01/manifest.json
+[Info: 2023-04-17 18:50:01.3732333: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.69, Host: redstone-launcher.mojang.com
+[Info: 2023-04-17 18:50:01.3733221: NetQueue.cpp(573)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/packages/83909c08118c259dd3f01ca3e1808acc5c380b01/manifest.json
+[Info: 2023-04-17 18:50:01.3733992: NetQueue.cpp(615)] Action finalized: https://redstone-launcher.mojang.com/release/v2/packages/83909c08118c259dd3f01ca3e1808acc5c380b01/manifest.json
+[Info: 2023-04-17 18:50:01.3809079: main.cpp(62)] Status reported: Inspecting current version and preparing for update...
+[Info: 2023-04-17 18:50:01.3838184: Updating.cpp(227)] Target path: C:\...\game
+[Info: 2023-04-17 18:50:01.3852208: Updating.cpp(245)] Staging path: C:\...\PistonStaging
+[Info: 2023-04-17 18:50:01.4063179: main.cpp(62)] Status reported: Downloading update files...
+[Info: 2023-04-17 18:50:01.4073124: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/bb861d06d196b802f470779b61fbbf661c1374e8/JavaCheck.jar
+[Info: 2023-04-17 18:50:01.4074152: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/e1dc01309fca499af605f83136d35e6d51fcd300/chrome_100_percent.pak
+[Info: 2023-04-17 18:50:01.4075031: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/33abea51f76bde3e37f71b7e94f01647bb4dcbd5/chrome_200_percent.pak
+[Info: 2023-04-17 18:50:01.4075519: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/a23449c1bc0605583691999b580fcdd97dd7fd0f/chrome_elf.dll
+[Info: 2023-04-17 18:50:01.4075861: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/eac037623203d01ade5c50410df42b23b7bf5865/d3dcompiler_47.dll
+[Info: 2023-04-17 18:50:01.4076148: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/42a5033597e4be36ccfa16d19890049ba0e25a56/icudtl.dat
+[Info: 2023-04-17 18:50:01.5377109: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.69, Host: redstone-launcher.mojang.com
+[Info: 2023-04-17 18:50:01.5378048: NetQueue.cpp(573)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/objects/bb861d06d196b802f470779b61fbbf661c1374e8/JavaCheck.jar
+[Info: 2023-04-17 18:50:01.5384691: NetQueue.cpp(615)] Action finalized: https://redstone-launcher.mojang.com/release/v2/objects/bb861d06d196b802f470779b61fbbf661c1374e8/JavaCheck.jar
+[Info: 2023-04-17 18:50:01.5386156: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/001c1583494fd30a6aa712f9126d0e4a3f142532/launcher.dll
+[Info: 2023-04-17 18:50:03.4136218: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.69, Host: redstone-launcher.mojang.com
+[Info: 2023-04-17 18:50:03.4137109: NetQueue.cpp(573)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/objects/e1dc01309fca499af605f83136d35e6d51fcd300/chrome_100_percent.pak
+[Info: 2023-04-17 18:50:03.4140615: NetQueue.cpp(615)] Action finalized: https://redstone-launcher.mojang.com/release/v2/objects/e1dc01309fca499af605f83136d35e6d51fcd300/chrome_100_percent.pak
+[Info: 2023-04-17 18:50:03.4141654: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/c363c3a4cae304b1836a365d20296a18a8006224/libEGL.dll
+[Info: 2023-04-17 18:50:04.0534153: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.69, Host: redstone-launcher.mojang.com
+[Info: 2023-04-17 18:50:04.0535065: NetQueue.cpp(573)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/objects/33abea51f76bde3e37f71b7e94f01647bb4dcbd5/chrome_200_percent.pak
+[Info: 2023-04-17 18:50:04.0538660: NetQueue.cpp(615)] Action finalized: https://redstone-launcher.mojang.com/release/v2/objects/33abea51f76bde3e37f71b7e94f01647bb4dcbd5/chrome_200_percent.pak
+[Info: 2023-04-17 18:50:04.0539985: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/3de956ac3858801f6ef9d8eb297aaf3b54c1d661/libGLESv2.dll
+[Info: 2023-04-17 18:50:05.7181419: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.69, Host: redstone-launcher.mojang.com
+[Info: 2023-04-17 18:50:05.7182157: NetQueue.cpp(573)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/objects/c363c3a4cae304b1836a365d20296a18a8006224/libEGL.dll
+[Info: 2023-04-17 18:50:05.7187372: NetQueue.cpp(615)] Action finalized: https://redstone-launcher.mojang.com/release/v2/objects/c363c3a4cae304b1836a365d20296a18a8006224/libEGL.dll
+[Info: 2023-04-17 18:50:05.7192262: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/5cc0c762f4d271154ec17d8a3cd60f481e215ec5/libcef.dll
+[Info: 2023-04-17 18:50:08.5777667: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.69, Host: redstone-launcher.mojang.com
+[Info: 2023-04-17 18:50:08.5778688: NetQueue.cpp(573)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/objects/a23449c1bc0605583691999b580fcdd97dd7fd0f/chrome_elf.dll
+[Info: 2023-04-17 18:50:08.5783077: NetQueue.cpp(615)] Action finalized: https://redstone-launcher.mojang.com/release/v2/objects/a23449c1bc0605583691999b580fcdd97dd7fd0f/chrome_elf.dll
+[Info: 2023-04-17 18:50:08.5785011: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/22b0a437055cd114547288e93df24c243df43a8f/am.pak
+[Info: 2023-04-17 18:50:18.6398528: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.69, Host: redstone-launcher.mojang.com
+[Info: 2023-04-17 18:50:18.6399567: NetQueue.cpp(573)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/objects/22b0a437055cd114547288e93df24c243df43a8f/am.pak
+[Info: 2023-04-17 18:50:18.6403741: NetQueue.cpp(615)] Action finalized: https://redstone-launcher.mojang.com/release/v2/objects/22b0a437055cd114547288e93df24c243df43a8f/am.pak
+[Info: 2023-04-17 18:50:18.6404477: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/25b4b7dbeebdab3ee7c824db62c16136f751e6a6/ar.pak
+[Info: 2023-04-17 18:50:29.4140260: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.69, Host: redstone-launcher.mojang.com
+[Info: 2023-04-17 18:50:29.4141173: NetQueue.cpp(573)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/objects/25b4b7dbeebdab3ee7c824db62c16136f751e6a6/ar.pak
+[Info: 2023-04-17 18:50:29.4148153: NetQueue.cpp(615)] Action finalized: https://redstone-launcher.mojang.com/release/v2/objects/25b4b7dbeebdab3ee7c824db62c16136f751e6a6/ar.pak
+[Info: 2023-04-17 18:50:29.4149009: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/1ab66539fbe9773004bacd9485ac8f9235be9f0e/bg.pak
+[Info: 2023-04-17 18:50:41.7877524: NetQueue.cpp(484)] NetQueue: Primary ip: 13.107.237.69, Host: redstone-launcher.mojang.com
+[Info: 2023-04-17 18:50:41.7878670: NetQueue.cpp(573)] NetQueue: Action finished: https://redstone-launcher.mojang.com/release/v2/objects/1ab66539fbe9773004bacd9485ac8f9235be9f0e/bg.pak
+[Info: 2023-04-17 18:50:41.7884354: NetQueue.cpp(615)] Action finalized: https://redstone-launcher.mojang.com/release/v2/objects/1ab66539fbe9773004bacd9485ac8f9235be9f0e/bg.pak
+[Info: 2023-04-17 18:50:41.7887292: NetQueue.cpp(700)] NetQueue: Starting net action https://redstone-launcher.mojang.com/release/v2/objects/504c648a45a1d7604f9d95e748ff7a5c59dc97a9/bn.pak

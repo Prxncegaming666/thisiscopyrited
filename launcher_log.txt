@@ -1,0 +1,20 @@
+[Info: 2023-04-18 00:50:41.3436809: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-04-18 00:50:41.3454039: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2023-04-18 00:50:41.3456370: mainWindows.cpp(86)] Running launcher bootstrap (version 1.0.1212)
+[Info: 2023-04-18 00:50:41.4597885: NetQueue.cpp(186)] NetQueue: Setting up.
+[Info: 2023-04-18 00:50:41.4627521: NetQueue.cpp(622)] NetQueue: worker thread started.
+[Info: 2023-04-18 00:50:41.4911661: Common.cpp(32)] Native Launcher Version: 1.0.1212
+[Info: 2023-04-18 00:50:41.4912467: Common.cpp(33)] Operating System: Windows 10 Home
+[Info: 2023-04-18 00:50:41.4914458: Common.cpp(34)] Application Data directory: C:\...\.minecraft
+[Info: 2023-04-18 00:50:41.4919844: Common.cpp(35)] Executable Path: /:\...\MinecraftLauncher.exe
+[Info: 2023-04-18 00:50:41.4920749: Common.cpp(36)] App Directory dir: C:\...\Minecraft Launcher
+[Info: 2023-04-18 00:50:41.4921432: Common.cpp(37)] Game data directory: C:\...\.minecraft
+[Info: 2023-04-18 00:50:41.4922009: Common.cpp(38)] Launcher dir: C:\...\game
+[Info: 2023-04-18 00:50:41.4922514: Common.cpp(39)] Java dir: C:\...\jre-x64
+[Info: 2023-04-18 00:50:41.4922965: Common.cpp(40)] TmpDir dir: C:\...\MinecraftLauncher
+[Info: 2023-04-18 00:50:41.4923575: Common.cpp(41)] x64: true
+[Info: 2023-04-18 00:50:41.4924422: main.cpp(160)] Uninstalling Minecraft Launcher
+[Info: 2023-04-18 00:50:41.4933839: NetQueue.cpp(212)] NetQueue: Initiating shutdown.
+[Info: 2023-04-18 00:50:41.4934411: NetQueue.cpp(226)] NetQueue: Waiting for worker thread to finish...
+[Info: 2023-04-18 00:50:41.4935046: NetQueue.cpp(742)] NetQueue: Worker thread shutting down.
+[Info: 2023-04-18 00:50:41.4938489: NetQueue.cpp(229)] NetQueue: Done.

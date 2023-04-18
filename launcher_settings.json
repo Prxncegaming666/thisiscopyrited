@@ -1,0 +1,11 @@
+{
+  "channel" : "release",
+  "customChannels" : [],
+  "deviceId" : 8014596759338769439,
+  "disableGPU" : false,
+  "formatVersion" : 0,
+  "locale" : "en-US",
+  "productLibraryDir" : "C:\\Users\\cjpri\\AppData\\Local\\Mojang\\products",
+  "useArm64JreIfSupported" : false,
+  "version" : 2
+}
